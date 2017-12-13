@@ -25,11 +25,4 @@
 /* Posititoning Classes */
 
 
-.featured {
-  width: 50%;
-  display: inline-block;
-}
-
-.archive {
-  width: 19%;
-}
+/*I'm skipping this lab because I think these methods are outdated. I use flexbox and trying to do it this way is slowing me down*/
