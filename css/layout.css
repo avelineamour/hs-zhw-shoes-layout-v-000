@@ -25,3 +25,11 @@
 /* Posititoning Classes */
 
 
+.featured {
+  width: 60%;
+  display: inline-block;
+}
+
+.archive {
+  width: 19%;
+}
